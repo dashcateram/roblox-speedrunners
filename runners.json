@@ -28,7 +28,7 @@
     "name": "imverygodatobbies",
     "display": "Egg2",
     "bounce": 78,
-    "cc": 88.5,
+    "cc": 86.5,
     "consistency": 74,
     "cam": 93,
     "device": "PC",
@@ -102,7 +102,7 @@
     "bounce": 81,
     "cc": 84,
     "consistency": 74,
-    "cam": 81.5,
+    "cam": 82.5,
     "device": "PC",
     "youtube": "https://www.youtube.com/channel/UCqCbeeZqTYNG2W8qyh5pS8w",
     "region": "N/A"
@@ -160,7 +160,7 @@
     "name": "zw6rts",
     "display": "zw6",
     "bounce": 82,
-    "cc": 78.5,
+    "cc": 84,
     "consistency": 71,
     "cam": 78,
     "device": "PC",
@@ -210,7 +210,7 @@
     "bounce": 74,
     "cc": 70,
     "cam": 75,
-    "consistency": 61,
+    "consistency": 63,
     "device": "PC",
     "youtube": "https://www.youtube.com/@GoldenBaconREAL",
     "region": "EU"
@@ -268,7 +268,7 @@
     "name": "ecotism",
     "display": "eco",
     "bounce": 81,
-    "cc": 79,
+    "cc": 85,
     "consistency": 72.5,
     "cam": 83,
     "device": "PC",
@@ -752,5 +752,17 @@
     "device": "PC",
     "youtube": "https://www.youtube.com/@daliolism",
     "region": "AS"
+  },
+  {
+    "id": "1923364769",
+    "name": "Lucky_BlockMaster20",
+    "display": "peep",
+    "bounce": 72.5,
+    "cc": 71,
+    "consistency": 65,
+    "cam": 73,
+    "device": "Mobile",
+    "youtube": "https://www.youtube.com/@peepspeedruns",
+    "region": "N/A"
   }
 ]
