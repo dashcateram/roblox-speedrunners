@@ -599,18 +599,6 @@
     "region": "N/A"
   },
   {
-    "id": "474327752",
-    "name": "moneyman111000",
-    "display": "Leo",
-    "bounce": 79.5,
-    "cc": 74,
-    "consistency": 68,
-    "cam": 74.5,
-    "device": "PC",
-    "youtube": "https://www.youtube.com/@Speedrunner-money",
-    "region": "N/A"
-  },
-  {
     "id": "7660964426",
     "name": "Newplizy",
     "display": "SPF_NEW",
@@ -645,30 +633,6 @@
     "device": "PC",
     "youtube": "https://www.youtube.com/@q0vick",
     "region": "EU"
-  },
-  {
-    "id": "3926890294",
-    "name": "q0vick",
-    "display": "j3str",
-    "bounce": 76.5,
-    "cc": 76.5,
-    "consistency": 68,
-    "cam": 73,
-    "device": "PC",
-    "youtube": "https://www.youtube.com/@q0vick",
-    "region": "EU"
-  },
-  {
-    "id": "444002126",
-    "name": "CertifiedPsycho777",
-    "display": "FrostyXVI",
-    "bounce": 77.5,
-    "cc": 76,
-    "consistency": 69.5,
-    "cam": 72.5,
-    "device": "PC",
-    "youtube": "https://www.youtube.com/@FrostyXVI",
-    "region": "N/A"
   },
   {
     "id": "444002126",
