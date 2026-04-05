@@ -237,7 +237,7 @@
     "cam": 75,
     "device": "PC",
     "youtube": "https://www.youtube.com/@TPYMN",
-    "region": "N/A"
+    "region": "EU"
   },
   {
     "id": "4150507194",
@@ -327,10 +327,10 @@
     "id": "1092099825",
     "name": "PirateCapy",
     "display": "UCS_Capyv",
-    "bounce": 75.5,
-    "cc": 73.5,
-    "consistency": 68,
-    "cam": 73,
+    "bounce": 71.5,
+    "cc": 63.5,
+    "consistency": 60,
+    "cam": 60,
     "device": "PC",
     "youtube": "https://www.youtube.com/@piratecapy",
     "region": "N/A"
@@ -351,10 +351,10 @@
     "id": "7176226681",
     "name": "IIikerobloxcool",
     "display": "TotXD",
-    "bounce": 76.5,
-    "cc": 75,
-    "consistency": 68,
-    "cam": 73.5,
+    "bounce": 83.5,
+    "cc": 82,
+    "consistency": 65,
+    "cam": 75.5,
     "device": "PC",
     "youtube": "https://www.youtube.com/@TotXDD",
     "region": "N/A"
