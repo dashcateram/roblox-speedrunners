@@ -141,7 +141,7 @@
     "cam": 77,
     "device": "PC",
     "youtube": "https://www.youtube.com/@1panjm1",
-    "region": "N/A"
+    "region": "OC"
   },
   {
     "id": "1381674013",
@@ -261,7 +261,7 @@
     "cam": 73,
     "device": "Mobile",
     "youtube": "https://www.youtube.com/@AriSpeedrun",
-    "region": "N/A"
+    "region": "OC"
   },
   {
     "id": "4297779912",
@@ -285,7 +285,7 @@
     "cam": 79,
     "device": "Mobile",
     "youtube": "https://www.youtube.com/@TempisLazy",
-    "region": "N/A"
+    "region": "EU"
   },
   {
     "id": "222605413",
@@ -369,7 +369,7 @@
     "cam": 75,
     "device": "Mobile",
     "youtube": "https://www.youtube.com/@Billolucko3",
-    "region": "N/A"
+    "region": "OC"
   },
   {
     "id": "7035136564",
@@ -608,7 +608,7 @@
     "cam": 74,
     "device": "PC",
     "youtube": "https://www.youtube.com/@Newplizy",
-    "region": "N/A"
+    "region": "AS"
   },
   {
     "id": "3842417024",
@@ -679,7 +679,7 @@
     "cam": 72,
     "device": "Mobile",
     "youtube": "https://www.youtube.com/@MrChezboi12",
-    "region": "N/A"
+    "region": "NA"
   },
   {
     "id": "1032501019",
@@ -822,42 +822,6 @@
     "device": "PC",
     "youtube": "https://www.youtube.com/@NoahSpeedruns0182-y",
     "region": "N/A"
-  },
-  {
-    "id": "8406526494",
-    "name": "Xga95710",
-    "display": "SWD_Bakon",
-    "bounce": 46,
-    "cc": 49,
-    "consistency": 56,
-    "cam": 44,
-    "device": "Mobile",
-    "youtube": "https://www.youtube.com/@CHIandSWD_Bakon",
-    "region": "EU"
-  },
-  {
-    "id": "8576104813",
-    "name": "ZeIshet",
-    "display": "NewKerty",
-    "bounce": 47,
-    "cc": 53,
-    "consistency": 59,
-    "cam": 46,
-    "device": "Mobile",
-    "youtube": "https://www.youtube.com/@KyrikCHEAT",
-    "region": "N/A"
-  },
-  {
-    "id": "10343185829",
-    "name": "ataristov2017_2ndalt",
-    "display": "SCR_Ilikerobloxcool",
-    "bounce": 47,
-    "cc": 50,
-    "consistency": 58,
-    "cam": 47,
-    "device": "Mobile",
-    "youtube": "https://www.youtube.com/@SCR_Ilikerobloxcool",
-    "region": "EU"
   },
   {
     "id": "10529334496",
