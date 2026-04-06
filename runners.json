@@ -698,7 +698,7 @@
     "name": "Faxotic",
     "display": "fxtc",
     "bounce": 81,
-    "cc": 76.5
+    "cc": 76.5,
     "consistency": 68.5,
     "cam": 81.5,
     "device": "PC",
