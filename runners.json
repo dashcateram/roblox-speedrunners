@@ -136,8 +136,8 @@
     "name": "1panjm1",
     "display": "Random",
     "bounce": 86,
-    "cc": 78,
-    "consistency": 63,
+    "cc": 82,
+    "consistency": 73,
     "cam": 78,
     "device": "PC",
     "youtube": "https://www.youtube.com/@1panjm1",
@@ -858,5 +858,17 @@
     "device": "PC",
     "youtube": "https://www.youtube.com/@ከi",
     "region": "EU"
+  },
+  {
+    "id": "4422858511",
+    "name": "MaxGlitchDcSpeedrun",
+    "display": "yes",
+    "bounce": 82,
+    "cc": 77,
+    "consistency": 76.5,
+    "cam": 79,
+    "device": "PC",
+    "youtube": "https://www.youtube.com/@ከi",
+    "region": "NA"
   }
 ]
